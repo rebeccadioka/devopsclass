@@ -2,3 +2,5 @@ james
 john
 ebi 
 ike
+
+Hi Gerald, this is to confirm that I am able to collaborate and commit to your file.
